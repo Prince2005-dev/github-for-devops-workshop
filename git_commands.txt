@@ -1,0 +1,16 @@
+git status
+git status
+git add testing.py
+git status
+git add .
+git status
+git commit -m "added to testing files"
+git status
+rm testing.py
+git status
+git restore testing.py
+git status
+ls
+git commit -m "added to testing files
+git commit -m "added to testing files"
+git status
