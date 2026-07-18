@@ -14,3 +14,14 @@ ls
 git commit -m "added to testing files
 git commit -m "added to testing files"
 git status
+
+
+git status
+rm testing.py
+git status
+git restore testing.py
+git status
+ls
+git commit -m "added to testing files
+git commit -m "added to testing files"
+git status
