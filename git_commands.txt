@@ -25,3 +25,6 @@ ls
 git commit -m "added to testing files
 git commit -m "added to testing files"
 git status
+
+
+this is a new changes in, they test a git pull command 
